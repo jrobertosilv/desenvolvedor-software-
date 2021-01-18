@@ -7,13 +7,13 @@ Shipping & HealthTech
 science, virtual reality and full stack develoer (mobile+web))
 - :moneybag: I’m looking for Data challenges to collaborate to world growth
 *Connect with me:*
-<a href="https://www.linkedin.com/in/richard-wesley-de-oliveira-962893203/" 
+85 98629-5240/" https://www.linkedin.com/in/jose-roberto-de-moraes-342779202
 target="_blank">
  <img align="left" width="22px" 
 src="https://raw.githubusercontent.com/TonGarcia/TonGarcia/a90787c330a000
 ada45a386828d54eb86ed78d7f/linkedin.svg" style="max-width:100%;">
 </a>
-<a href="https://youtube.com/channel/UCAN6OvjYh4GjIyFN9_HtXMw" 
+
 target="_blank">
  <img align="left" width="30px" 
 src="https://github.com/TonGarcia/TonGarcia/blob/main/youtube-
